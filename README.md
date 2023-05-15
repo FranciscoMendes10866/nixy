@@ -1,1 +1,3 @@
 # nixy
+
+Remix + SSE + Quirrel 🪶
